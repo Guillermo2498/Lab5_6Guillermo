@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\Lab5_6GuillermoBran\CapaDatos\obj\Debug\CapaDatos.pdb
